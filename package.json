@@ -1,0 +1,25 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "Please fork this repo first, then based on your Track choose Frontend or Backend task After finishing the task, please push your changes and then create PR against this repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TNxRebel/Assignment3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TNxRebel/Assignment3/issues"
+  },
+  "homepage": "https://github.com/TNxRebel/Assignment3#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.1.2"
+  }
+}
